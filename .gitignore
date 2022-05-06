@@ -7,5 +7,5 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
-/.env
+
 /wireframe.drawio
